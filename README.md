@@ -1,17 +1,17 @@
-<a href="https://github.com/aju001"><img src="https://fontmeme.com/permalink/211121/32108414fe61d225739702fe3b4c0784.png" alt="google-font" border="0"></a>
+<a href="https://github.com/aju001"><img src="https://i.imgur.com/d4DIca6.jpeg" alt="google-font" border="0"></a>
 <div align="center">
 
 
 
 
 <div align="center">
-  <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/Y2mXdR5/ajuser.jpg""width="300" height="300"/>
+  <a href="https://ibb.co/4wyvT9j"><img src="https://i.imgur.com/d4DIca6.jpeg""width="300" height="300"/>
     <p align="center">
     
     
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=000EF7&lines=Welcome+to+Ajuser+WA+Bot...;Created+by+Aju....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=000EF7&lines=Welcome+to+AYISHUMOL+WA+Bot...;Created+by+FASIL....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
   
-<a href="#"><img title="Ajuser_v2" src="https://img.shields.io/badge/-Ajuser-blue?&style=for-the-badge"></a>
+<a href="#"><img title="AYISHUMOL_V1" src="https://img.shields.io/badge/-AYISHUMOL-blue?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
@@ -19,7 +19,7 @@
 
 </div>
 <p align="center">
-Project created by <a href="https://github.com/aju001">aju</a> to make it public
+Project created by <a href="https://github.com/Ayishubot/AYISHUMOL_V1">Fasil</a> to make it public
     <br>
        | © |
         Reserved |
@@ -29,13 +29,13 @@ Project created by <a href="https://github.com/aju001">aju</a> to make it public
 ----
 
   <p align="center">
-  <a href="https://github.com/aju001/Ajuser_v2 ">
+  <a href="https://github.com/Ayishubot/AYISHUMOL_V1 ">
     <img src="https://img.shields.io/github/repo-size/aju001/Ajuser_v2?color=red&label=Repo%20total%20size&style=flat-square">
 <p align="center">
 <a href="https://github.com/aju001/followers"><img title="Followers" src="https://img.shields.io/github/followers/aju001?color=grey&style=plastic"></a>
 <a href="https://github.com/aju001/Ajuser_v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/aju001/Ajuser?color=grey&style=plastic"></a>
-<a href="https://github.com/aju001/Ajuser_v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/aju001/Ajuser_v2?color=grey&style=plastic"></a>
-<a href="https://github.com/aju001/Ajuser_v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/aju001/Ajuser_v2?label=Watchers&color=grey&style=flat-circle"></a>
+<a href="https://github.com/Ayishubot/AYISHUMOL_V1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/aju001/Ajuser_v2?color=grey&style=plastic"></a>
+<a href="https://github.com/Ayishubot/AYISHUMOL_V1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/aju001/Ajuser_v2?label=Watchers&color=grey&style=flat-circle"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-red.svg"</a>
 <h3 align="center">Contact Me:</h3>
 
